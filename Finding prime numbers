@@ -2,8 +2,7 @@
 #include<cmath>
 using namespace std;
 
-int main()
-{
+int main(){
     int num;
     bool isPrime=true;
     bool isValid=false;
